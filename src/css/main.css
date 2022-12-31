@@ -11,10 +11,6 @@
 }
 
 .sun {
-    --bg: #1e2345;
-    --violet: rgb(161, 132, 240);
-    --pink: #d60087;
-    --turquoise: #2fdabd;
     --background: linear-gradient(90deg, rgba(201, 179, 203, 1) 12%, rgba(136, 208, 218, 1) 80%);
     --tarjetas-bg: rgb(255, 255, 255);
     --tarjetas-bg-1: rgb(241, 241, 241);
@@ -25,9 +21,6 @@
 }
 
 .moon {
-    --violet: #5cb0bb;
-    --pink: #d60087;
-    --turquoise: #486ec0;
     --background: linear-gradient(90deg, rgba(5, 13, 20, 1) 24%, rgba(24, 32, 50, 1) 75%, rgba(25, 34, 53, 1) 80%, rgba(31, 41, 64, 1) 100%);
     --tarjetas-bg: rgb(23, 37, 53);
     --tarjetas-bg-1: rgb(19, 28, 41);

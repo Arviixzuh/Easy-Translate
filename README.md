@@ -5,7 +5,7 @@
 
 <h3>❓ ¿Que es esto?</h3>
 
-- Easy Translate: Es una aplicacion que te permite traducir texto 
+- Easy Translate: Es una aplicacion que te permite traducir texto y voz en tiempo real de un idioma a otro.
 
 <h3>☃️ Desarollador</h3>
 

@@ -14,4 +14,3 @@
 <h3>🤔 ¿Como puedo utilizarlo?</h3>
 
 - [» Click aquí «](https://arviixzuh.github.io/Easy-Translate/)
-- 

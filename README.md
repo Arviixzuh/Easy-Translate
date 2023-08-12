@@ -1,5 +1,5 @@
 <p  align="center">
-<img src='https://arviixzuh.ml/src/assets/img/traductor.png' width="200px"  height='200px'>
+<img src='https://arviixzuh.github.io/Easy-Translate/src/img/traductor.png' width="200px"  height='200px'>
 </p>
 <h1 align="center"> Easy Translate </h1>
 
